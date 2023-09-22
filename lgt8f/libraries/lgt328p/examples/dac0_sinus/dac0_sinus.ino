@@ -14,7 +14,7 @@ void setup() {
   // analogReference(EXTERNAL);      // REF PIN Voltage
   // analogReference(INTERNAL4V096); // 4.096V
   // analogReference(INTERNAL2V048); // 2.048v
-  // analogReference(INTERNAL1V048); // 1.024v
+  // analogReference(INTERNAL1V024); // 1.024v
   pinMode(DAC0, ANALOG);
 }
 
